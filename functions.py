@@ -1,6 +1,7 @@
 import json
 
 # hjkjhkh
+# bvbvbvbv
 def check_fitness(student_data, profession):
     """
     Возвращает словарь соответствия студента профессии
