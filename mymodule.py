@@ -7,3 +7,4 @@ def add_three_numbers(a, b, z):
         return a + b + z
     else:
         return "some is zero"
+# ;ldfkg;gk
